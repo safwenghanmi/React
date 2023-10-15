@@ -1,0 +1,10 @@
+.cards{
+    display: flex;
+    justify-content: space-around;
+}
+.body{
+    background-color: bisque;
+}
+.cards :hover{
+    scale: 1.05;
+}
